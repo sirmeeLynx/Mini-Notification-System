@@ -1,6 +1,6 @@
 # **Mini Notification System**
 
-<img src="https://socialify.git.ci/hrahul2605/express-mongo-starter/image?description=1&forks=1&issues=1&language=1&owner=1&stargazers=1&theme=Dark" alt="boilerplate-server" width="640" height="320" />
+<img src="https://socialify.git.ci/sirmeeLynx/Mini-Notification-System/image?description=1&font=KoHo&issues=1&language=1&owner=1&stargazers=1&theme=Dark" alt="Mini-Notification-System" width="640" height="320" />
 
 ## Introduction
 A publish-subscribe communication between two servers over a restful interface
@@ -24,5 +24,5 @@ A publish-subscribe communication between two servers over a restful interface
 
 
 ## Design and Architecture
-![Docs page 1](./images/docs.png)
-![Docs page 2](./images/docs2.png)
+![Docs page 1](https://github.com/sirmeeLynx/Mini-Notification-System/blob/main/images/docs.PNG?raw=true)
+![Docs page 2](https://github.com/sirmeeLynx/Mini-Notification-System/blob/main/images/docs2.PNG?raw=true)
