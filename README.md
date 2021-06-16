@@ -24,5 +24,5 @@ A publish-subscribe communication between two servers over a restful interface
 
 
 ## Design and Architecture
-![Docs page 1](images/docs.png)
-![Docs page 2](images/docs2.png)
+![Docs page 1](./images/docs.png)
+![Docs page 2](./images/docs2.png)
